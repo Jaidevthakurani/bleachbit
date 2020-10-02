@@ -1,10 +1,10 @@
 # BleachBit
 
-BleachBit cleans files to free disk space and to maintain privacy.
+BleachBit is an amazing tool which cleans files to free disk space and to maintain privacy.
 
 ## Running from source
 
-To run BleachBit without installation, unpack the tarball and then run these
+To run BleachBit without installation you need to unpack the tarball and then run these
 commands:
 
     make -C po local # build translations
